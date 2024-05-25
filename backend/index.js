@@ -8,9 +8,11 @@ const app = express();
 
 app.use(express.json());
 
+// mount it before any routing
+app.use(cors());
+
 app.use('/books', booksRouter);
 
-app.use(cors())
 
 mongoose.connect(MongoURL).then(() => {
     app.listen(PORT, () => {
