@@ -1,9 +1,8 @@
 ## Bookstore MERN
-<hr>
-<img alt="Static Badge" src="https://img.shields.io/badge/Mongoose-v8.4.0-green?logo=mongoosedotws">
-<img alt="Static Badge" src="https://img.shields.io/badge/Express-v4.19.2-green?logo=express">
-<img alt="Static Badge" src="https://img.shields.io/badge/React-v18.2.0-blue?logo=React">
-<img alt="Static Badge" src="https://img.shields.io/badge/Node.js-v20.13.1-green?logo=nodedotjs">  
+
+![Static Badge](https://img.shields.io/badge/Mongoose-v8.4.0-green?logo=mongoose)  ![Static Badge](https://img.shields.io/badge/Express-v4.19.2-green?logo=express)  ![Static Badge](https://img.shields.io/badge/React-v18.2.0-blue?logo=React)  ![Static Badge](https://img.shields.io/badge/Node.js-v20.13.1-green?logo=Node.js)
+
+
 <br>
 <br>
 This project contains basic CURD operations suitable for developers who never used MERN stack.
